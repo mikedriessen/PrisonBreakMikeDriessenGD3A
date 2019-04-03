@@ -9,5 +9,5 @@ And after uploading:
 https://we.tl/t-37ifw7Ayfz
 
 
-#I decided you should be able to get it off git hub so the 3 GB map ant this should be inside the assets folder!!!
+#I decided you should be able to get it off git hub so the 3 GB map and this should be inside the assets folder!!!
 You can extract this map from the MAP folder!!!
