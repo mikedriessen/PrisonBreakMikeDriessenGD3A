@@ -7,3 +7,6 @@ After 2 hours of struggles I decided to upload this project to we transfer.
 
 And after uploading:
 https://we.tl/t-37ifw7Ayfz
+
+
+#I decided you should be able to get it off git hub so the 3 GB map is now zipped inside the assets folder!!!
